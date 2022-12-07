@@ -1,0 +1,64 @@
+*{
+  box-sizing: 0;
+}
+.bodyColor{
+  background-color: #F8EDE8;
+}
+.nabvrButton { 
+  color: #4E220E; 
+}
+.nabvrButton:hover {
+  background-color: #4E220E;
+  color: white;
+}
+.nabvrButton1 { 
+  color: #4E220E; 
+}
+.nabvrButton1:hover {
+  background-color: #DFB084;
+  color: white;
+}
+.srh{ 
+  color: #4E220E; 
+  background-color: white;
+  border: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.logBttn{
+  color: #4E220E; 
+}
+.logBttn:hover{
+  color: white;
+  background-color: #DFB084;
+}
+.joinBttn{
+  color: #4E220E;
+}
+.joinBttn:hover{
+  color: white;
+  background-color: #DFB084;
+}
+.btnAccord{
+  color: #4E220E;
+  background-color: #F8E0D5;
+}
+.accordLinks{
+  color: #4E220E;
+}
+.accordLinks:hover{
+  color: black;
+}
+.cardBtn{
+  color: #4E220E;
+  border-color: white;
+  font-size: 15pt;
+}
+.cardhover:hover{
+  color: black;
+  background-color: #F8E0D5;
+  opacity: 90%;
+  border-color: #4E220E;
+  box-shadow: #4E220E;
+}
