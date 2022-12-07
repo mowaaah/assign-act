@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/assign-act/static/css/main.b5eea02c.css",
+    "main.js": "/assign-act/static/js/main.ee56b9e0.js",
+    "static/media/3.png": "/assign-act/static/media/3.3eebec40a50ac9ffd8ce.png",
+    "static/media/4.png": "/assign-act/static/media/4.8a471235c7a39dbea014.png",
+    "static/media/2.png": "/assign-act/static/media/2.18891c9ce49079011123.png",
+    "static/media/manga-graphic.jpg": "/assign-act/static/media/manga-graphic.e36e8fbc75dc79aca6f2.jpg",
+    "static/media/horror-thriller.jpg": "/assign-act/static/media/horror-thriller.64042ea71863ce3d9417.jpg",
+    "static/media/comedy.jpg": "/assign-act/static/media/comedy.8dfedb406d116c95b56c.jpg",
+    "static/media/science fiction.jpg": "/assign-act/static/media/science fiction.9bd992295a1e1f53989d.jpg",
+    "static/media/auto biography.jpg": "/assign-act/static/media/auto biography.e98ec73dccd69eb64a0e.jpg",
+    "static/media/young adult.jpg": "/assign-act/static/media/young adult.686a65e2231ec2f93b50.jpg",
+    "static/media/adventure.jpg": "/assign-act/static/media/adventure.1c778791903dbc52fcfa.jpg",
+    "static/media/mystery.jpg": "/assign-act/static/media/mystery.ca0f12c2a488a8370c41.jpg",
+    "static/media/fantasy.jpg": "/assign-act/static/media/fantasy.b0b8d11632feb9e9c6ea.jpg",
+    "static/media/action.jpg": "/assign-act/static/media/action.5bdadcbeedc67a7ee4a2.jpg",
+    "static/media/romance.jpg": "/assign-act/static/media/romance.2eb191397d9c8715d59d.jpg",
+    "static/media/website-logo.png": "/assign-act/static/media/website-logo.d93d1844db7a1c642594.png",
+    "static/media/website logo.png": "/assign-act/static/media/website logo.08695f332794fb5e8c6f.png",
+    "index.html": "/assign-act/index.html",
+    "main.b5eea02c.css.map": "/assign-act/static/css/main.b5eea02c.css.map",
+    "main.ee56b9e0.js.map": "/assign-act/static/js/main.ee56b9e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5eea02c.css",
+    "static/js/main.ee56b9e0.js"
+  ]
+}
